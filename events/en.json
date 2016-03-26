@@ -1,0 +1,50 @@
+[
+  {
+    "code": "back-at-home",
+    "name": "Back at Home",
+    "description": "User is back at home",
+    "service": 0,
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-light-blue"
+  },
+  {
+    "code": "left-home",
+    "name": "Left Home",
+    "description": "User just left home",
+    "service": 0,
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-light-blue"
+  },
+  {
+    "code": "wake-up",
+    "name": "Wake Up",
+    "description": "When a user just woke up",
+    "service": 0,
+    "faIcon": "fa fa-bed",
+    "iconColor": "bg-yellow"
+  },
+  {
+    "code": "going-to-sleep",
+    "name": "Going to Sleep",
+    "description": "When a user is going to sleep",
+    "service": 0,
+    "faIcon": "fa fa-bed",
+    "iconColor": "bg-blue"
+  },
+  {
+    "code": "gladys-installed",
+    "name": "Gladys Installed",
+    "description": "When Gladys just installed",
+    "service": 0,
+    "faIcon": "fa fa-desktop",
+    "iconColor": "bg-black"
+  },
+  {
+    "code": "gladys-updated",
+    "name": "Gladys updated",
+    "description": "Gladys has been updated !",
+    "service": 0,
+    "faIcon": "fa fa-wrench",
+    "iconColor": "bg-black"
+  }
+]
