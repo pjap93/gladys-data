@@ -1,0 +1,9 @@
+[
+  {
+    "uuid": "77e52b27-80dd-48d6-b240-e0396994a42b",
+    "text": "Wake me up at 8am tomorrow",
+    "label": "set-alarm",
+    "service": "alarm",
+    "language": "en"
+  }
+]

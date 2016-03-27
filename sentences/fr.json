@@ -1,7 +1,7 @@
 [
   {
     "uuid": "a3cac48a-0bc1-4423-abfb-0eab4d774b1f",
-    "text": "Je dois être a 8 heures demain au college",
+    "text": "Je dois être a 8 heures demain",
     "label": "create-calendar-event",
     "service": "calendar",
     "language": "fr"
