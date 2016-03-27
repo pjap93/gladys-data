@@ -1,0 +1,50 @@
+[
+  {
+    "code": "back-at-home",
+    "name": "Retour à la maison",
+    "description": "Vous venez de rentrer à la maison",
+    "service": 0,
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-light-blue"
+  },
+  {
+    "code": "left-home",
+    "name": "Départ de la maison",
+    "description": "Vous venez de partir de la maison",
+    "service": 0,
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-light-blue"
+  },
+  {
+    "code": "wake-up",
+    "name": "Réveil",
+    "description": "Vous vous réveillez !",
+    "service": 0,
+    "faIcon": "fa fa-bed",
+    "iconColor": "bg-yellow"
+  },
+  {
+    "code": "going-to-sleep",
+    "name": "Va se coucher",
+    "description": "Vous allez vous coucher",
+    "service": 0,
+    "faIcon": "fa fa-bed",
+    "iconColor": "bg-blue"
+  },
+  {
+    "code": "gladys-installed",
+    "name": "Gladys installée",
+    "description": "Gladys s'est installée",
+    "service": 0,
+    "faIcon": "fa fa-desktop",
+    "iconColor": "bg-black"
+  },
+  {
+    "code": "gladys-updated",
+    "name": "Gladys mise à jour",
+    "description": "Gladys s'est mise à jour",
+    "service": 0,
+    "faIcon": "fa fa-wrench",
+    "iconColor": "bg-black"
+  }
+]
