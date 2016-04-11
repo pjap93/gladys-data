@@ -59,42 +59,42 @@
     "uuid": "c96ea78d-a899-49c5-a419-77498b62f3af",
     "text": "Quelle température fait-il dans la …?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "8270f5ba-0809-4bcb-9ae7-5f0aa64b75fd",
     "text": "Quelle est la température ?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "6654e8c3-722d-4389-bfa3-d355891db0c1",
     "text": "Quelle est l'humidité ?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "6df4ae81-e3b3-4b55-9bc2-828aa6837234",
     "text": "Quelle est la température du bureau ?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "b006fd22-5304-4b8d-a9af-f9587003643f",
     "text": "Quel température fait-il dans",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "b5267f97-12b6-43cf-b41c-8ac7d88048f3",
     "text": "Est ce que tu as bien éteint le ?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
@@ -122,14 +122,14 @@
     "uuid": "da124c50-f17c-437b-b347-148b8b98ca9c",
     "text": "Quelle est la température extérieure?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "561570a1-f9dc-45a4-af21-162c9872901b",
     "text": "Quelle est la température de l'appartement?",
     "label": "get-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
@@ -388,378 +388,378 @@
     "uuid": "1fbf2878-6b7b-4a04-80c3-38fd3e5c0483",
     "text": "Ferme les volets du bas",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "0649f8cb-718f-43df-9afb-3859661753f0",
     "text": "Ferme tous les volets",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "dd9bebfa-bb88-4ed9-bea3-c7eb48edeb40",
     "text": "Éteins les lumières du bas",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "ed333f87-955d-4c7c-a72b-9c0c05edc0d8",
     "text": "Éteins toutes les lumières",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f4dd1b1e-b9e5-4019-aff3-3c780b6dea8c",
     "text": "Ferme les volets du bas",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "c2a66916-ae3e-4ea8-a7cf-afb5e0c025a9",
     "text": "Éteins la radio",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "e1616645-1cdd-4eb5-8426-9188f51c5845",
     "text": "Ferme les volets",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "c4546087-e608-4521-9ee3-4c90d794a918",
     "text": "Ferme les volets (du salon)",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "e8253f63-e344-4c2e-8889-d13a562eb25e",
     "text": "Éteins toutes les lumières",
     "label": "set-device-off",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "2eb0e5ed-7555-42ae-90da-2cc7de708a7e",
     "text": "Allume la lumière",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "39cba7dc-3949-4d0a-b466-d47566e3584b",
     "text": "Fais moi couler un café",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "45e13a94-5eb0-402c-99b5-90e346b63353",
     "text": "J'aimerais regarder Netflix",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f683326c-67cd-4939-8a96-75875a473e5e",
     "text": "Allume la télévision",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "87d5f9cb-dc2e-487a-98bd-c0e1f61bf63c",
     "text": "Allume la radio",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "bbd5aded-5843-4547-9a09-17f3e44e09db",
     "text": "Allume la lumière du salon",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "54aa7a45-48ca-4ff6-96a9-693cd695d3d2",
     "text": "Ouvre demain les volets à 8h00",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "cda4c978-9466-4108-a9d2-55ad862c03ad",
     "text": "Ferme les volets à 22h00",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "86636880-c2d7-4254-952d-92a754d3e21d",
     "text": "Allume le chauffage de la salle de bain",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "e385f878-2247-4639-a36b-c2413a6be7e5",
     "text": "Allume la télé",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "0db08b46-5bf8-4c7f-ac73-739555383a00",
     "text": "Met en route la machine à café",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "a00ec0e3-0d73-49ea-811f-154b1ee42403",
     "text": "Fais préchauffer le four",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "d9b78489-c2b7-41c7-94c8-f13e6c5a4448",
     "text": "Met une lumière blanche",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "7d38a004-2b21-4f63-b18c-7c3999ae8521",
     "text": "Met une lumière plus douce",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "233c8e11-7462-49d9-9796-b92cddf448b8",
     "text": "Allume l'ordinateur",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "2c9eeef1-12e0-4287-b0c2-e6fb11d13ada",
     "text": "Allume le vidéo projecteur",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f4355c57-cc53-41cc-bb9c-baf20a1c0506",
     "text": "Allumer la lumière de *piece*",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "6200a348-f07a-4826-a7cc-98ce1058af00",
     "text": "Fais moi un café",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f6421cff-80ac-4c9e-a42b-558891605064",
     "text": "Allume la cafetière",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "df122093-213b-4525-a7c7-9b8737fb9538",
     "text": "Prépare moi un café",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "263a45af-af04-4323-b8dc-2c1980bab823",
     "text": "Allume la lumière de l'entrée",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "b9efa45b-35e5-43f0-92d2-24839d7c771b",
     "text": "Allume toutes la maison",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "3d307e90-c784-47a6-8d5a-b63e48137d69",
     "text": "Ouvre le garage int/ext",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "69ee4dab-f4b6-4f0e-8380-08fcbf8f0f7b",
     "text": "Allume le XXX dès mon réveil",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "3bd4ed3a-9f27-4f06-8c54-ab02baf222a2",
     "text": "Allume le salon",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "a22ca782-5184-403d-a3c7-faec309fff3c",
     "text": "regarder la tv",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "6531e011-e121-45f1-993c-2fc10af8b7b5",
     "text": "Allume la TV",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "607d1ddd-7c83-4d2a-a2f3-20451d38f9ce",
     "text": "Allume la lumière dans",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f93eb55d-c650-4995-a19a-dcdd81d9ad9a",
     "text": "Ouvre la porte du",
     "label": "set-device-on",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "49c33c9a-276a-46a6-984b-f32f379c5234",
     "text": "il fait froid, augmente la température de 3 degrés",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "5faf94dc-1d11-4821-a03b-bb9954b78427",
     "text": "J'ai chaud",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "2f4e8f34-1118-4e9c-b130-bd1eb33935ed",
     "text": "J'ai froid",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "addcac09-259b-4287-b62a-af50a890ef06",
     "text": "Augmente la température du salon",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "0f5704e7-7077-4796-b017-599c639e52be",
     "text": "Baisse la température du salon",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f92ea7f6-9e5f-4516-b8a1-4ba5ef683750",
     "text": "Augmente le volume de la télévision",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "99221739-9422-4de8-87b4-330563e8dd13",
     "text": "Baisse le volume de la télévision",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "be27cb10-4e3a-4d2b-b61e-8cae5c12dfb0",
     "text": "Monte le chauffage",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "1afa5c0d-cbea-4ea9-bada-9c66669178dc",
     "text": "Baisse un peu la lumière",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "505b1586-1e45-493c-9f2d-16c91d7781db",
     "text": "Tamise la lumière à xx %",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "a3d4e524-9c33-43eb-8c04-0b088f20a367",
     "text": "Met en route le film \"xxxx",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "720094e7-bc74-459b-a036-0f846dce967f",
     "text": "Règle la température sur x degrés dans x pièce",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "2a69748e-a255-42c2-9891-472c00787202",
     "text": "Préchauffe le four à X degrés",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "e7dac123-f429-411a-97cf-16dacb681ba1",
     "text": "Met la 24",
     "label": "set-device-value",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "f3535462-e5f6-4b3c-a809-43a5dc05b736",
     "text": "Baisse la température",
     "label": "set-device-value-down",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
     "uuid": "96c6725d-d22b-4d9a-9728-99cd83abfb0b",
     "text": "Augmente la température",
     "label": "set-device-value-up",
-    "service": "device",
+    "service": "deviceType",
     "language": "fr"
   },
   {
