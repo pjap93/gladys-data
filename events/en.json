@@ -46,5 +46,21 @@
     "service": 0,
     "faIcon": "fa fa-wrench",
     "iconColor": "bg-black"
+  },
+  {
+    "code": "sunrise",
+    "name": "Sunrise",
+    "description": "The sun is rising",
+    "service": 0,
+    "faIcon": "fa fa-sun-o",
+    "iconColor": "bg-yellow"
+  },
+  {
+    "code": "sunset",
+    "name": "Sunset",
+    "description": "The sun sets",
+    "service": 0,
+    "faIcon": "fa fa-sun-o",
+    "iconColor": "bg-yellow"
   }
 ]

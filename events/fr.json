@@ -46,5 +46,21 @@
     "service": 0,
     "faIcon": "fa fa-wrench",
     "iconColor": "bg-black"
+  },
+  {
+    "code": "sunrise",
+    "name": "Lever de soleil",
+    "description": "Quand le soleil se lève",
+    "service": 0,
+    "faIcon": "fa fa-sun-o",
+    "iconColor": "bg-yellow"
+  },
+  {
+    "code": "sunset",
+    "name": "Coucher de soleil",
+    "description": "Quand le soleil se couche",
+    "service": 0,
+    "faIcon": "fa fa-sun-o",
+    "iconColor": "bg-yellow"
   }
 ]
