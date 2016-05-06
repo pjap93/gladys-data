@@ -62,5 +62,13 @@
     "service": 0,
     "faIcon": "fa fa-sun-o",
     "iconColor": "bg-yellow"
+  },
+  {
+    "code": "devicetype-new-value",
+    "name": "DeviceType new value",
+    "description": "Triggers for example when a lamp is on, when a sensor recorded a new value.",
+    "service": 0,
+    "faIcon": "fa fa-circle-o",
+    "iconColor": "bg-light-blue"
   }
 ]
