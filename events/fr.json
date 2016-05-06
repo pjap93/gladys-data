@@ -4,6 +4,7 @@
     "name": "Retour à la maison",
     "description": "Vous venez de rentrer à la maison",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-home",
     "iconColor": "bg-light-blue"
   },
@@ -12,6 +13,7 @@
     "name": "Départ de la maison",
     "description": "Vous venez de partir de la maison",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-home",
     "iconColor": "bg-light-blue"
   },
@@ -20,6 +22,7 @@
     "name": "Réveil",
     "description": "Vous vous réveillez !",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-yellow"
   },
@@ -28,6 +31,7 @@
     "name": "Va se coucher",
     "description": "Vous allez vous coucher",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-blue"
   },
@@ -36,6 +40,7 @@
     "name": "Gladys installée",
     "description": "Gladys s'est installée",
     "service": 0,
+    "category": "system",
     "faIcon": "fa fa-desktop",
     "iconColor": "bg-black"
   },
@@ -44,6 +49,7 @@
     "name": "Gladys mise à jour",
     "description": "Gladys s'est mise à jour",
     "service": 0,
+    "category": "system",
     "faIcon": "fa fa-wrench",
     "iconColor": "bg-black"
   },
@@ -52,23 +58,67 @@
     "name": "Lever de soleil",
     "description": "Quand le soleil se lève",
     "service": 0,
+    "category": "sun",
     "faIcon": "fa fa-sun-o",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      }
+    ]
   },
   {
     "code": "sunset",
     "name": "Coucher de soleil",
     "description": "Quand le soleil se couche",
     "service": 0,
+    "category": "sun",
     "faIcon": "fa fa-sun-o",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      }
+    ]
   },
+  {
+    "code": "alarm",
+    "name": "Alarme",
+    "description": "Quand une alarme se déclenche.",
+    "service": 0,
+    "category": "alarm",
+    "faIcon": "fa fa-clock-o",
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "Alarme",
+         "variablename": "alarm",
+         "path": "/alarm"
+      }
+    ]
+  }
   {
     "code": "devicetype-new-value",
     "name": "Nouvelle valeur deviceType",
     "description": "Par exemple, quand une lampe est allumée, quand un capteur enregistre une valeur",
     "service": "deviceType",
+    "category": "device",
     "faIcon": "fa fa-circle-o",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "DeviceType",
+         "variablename": "devicetype",
+         "path": "/devicetype"
+      },
+      {
+        "name": "Value",
+        "variablename": "value"
+      }
+    ]
   }
 ]

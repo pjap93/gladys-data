@@ -4,6 +4,7 @@
     "name": "Back at Home",
     "description": "User is back at home",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-home",
     "iconColor": "bg-light-blue"
   },
@@ -12,6 +13,7 @@
     "name": "Left Home",
     "description": "User just left home",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-home",
     "iconColor": "bg-light-blue"
   },
@@ -20,6 +22,7 @@
     "name": "Wake Up",
     "description": "When a user just woke up",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-yellow"
   },
@@ -28,6 +31,7 @@
     "name": "Going to Sleep",
     "description": "When a user is going to sleep",
     "service": 0,
+    "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-blue"
   },
@@ -36,6 +40,7 @@
     "name": "Gladys Installed",
     "description": "When Gladys just installed",
     "service": 0,
+    "category": "system",
     "faIcon": "fa fa-desktop",
     "iconColor": "bg-black"
   },
@@ -44,6 +49,7 @@
     "name": "Gladys updated",
     "description": "Gladys has been updated !",
     "service": 0,
+    "category": "system",
     "faIcon": "fa fa-wrench",
     "iconColor": "bg-black"
   },
@@ -52,23 +58,67 @@
     "name": "Sunrise",
     "description": "The sun is rising",
     "service": 0,
+    "category": "sun",
     "faIcon": "fa fa-sun-o",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      }
+    ]
   },
   {
     "code": "sunset",
     "name": "Sunset",
     "description": "The sun sets",
     "service": 0,
+    "category": "sun",
     "faIcon": "fa fa-sun-o",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      }
+    ]
   },
+  {
+    "code": "alarm",
+    "name": "Alarm",
+    "description": "When an alarm fire.",
+    "service": 0,
+    "category": "alarm",
+    "faIcon": "fa fa-clock-o",
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "Alarm",
+         "variablename": "alarm",
+         "path": "/alarm"
+      }
+    ]
+  }
   {
     "code": "devicetype-new-value",
     "name": "DeviceType new value",
     "description": "Triggers for example when a lamp is on, when a sensor recorded a new value.",
     "service": 0,
+    "category": "device",
     "faIcon": "fa fa-circle-o",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "DeviceType",
+         "variablename": "devicetype",
+         "path": "/devicetype"
+      },
+      {
+        "name": "Value",
+        "variablename": "value"
+      }
+    ]
   }
 ]
