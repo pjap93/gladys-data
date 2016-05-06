@@ -100,7 +100,7 @@
          "path": "/alarm"
       }
     ]
-  }
+  },
   {
     "code": "devicetype-new-value",
     "name": "DeviceType new value",
