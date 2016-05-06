@@ -112,7 +112,7 @@
     "params": [
       {
          "name": "Zone",
-         "variablename": "area",
+         "variablename": "id",
          "path": "/area"
       }
     ]
