@@ -102,7 +102,7 @@
     ]
   },
   {
-    "code": "area",
+    "code": "enter-area",
     "name": "Zone",
     "description": "Quand vous entrez dans une zone.",
     "service": 0,
