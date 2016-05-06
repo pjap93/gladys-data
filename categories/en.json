@@ -15,9 +15,9 @@
 		"image": "/img/category/alarm.jpg"
 	},
 	{
-		"service": "calendar",
-		"name": "Calendar",
-		"image": "/img/category/calendar.jpg"
+		"service": "user",
+		"name": "User",
+		"image": "/img/category/user.jpg"
 	},
 	{
 		"service": "area",
