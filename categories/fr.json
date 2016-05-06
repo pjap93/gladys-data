@@ -1,0 +1,32 @@
+[
+	{
+		"service": "device",
+		"name": "Device",
+		"image": "/img/category/device.jpg"
+	},
+	{
+		"service": "sun",
+		"name": "Soleil",
+		"image": "/img/category/sun.jpg"
+	},
+	{
+		"service": "alarm",
+		"name": "Alarme",
+		"image": "/img/category/alarm.jpg"
+	},
+	{
+		"service": "calendar",
+		"name": "Calendrier",
+		"image": "/img/category/calendar.jpg"
+	},
+	{
+		"service": "area",
+		"name": "Zone",
+		"image": "/img/category/area.jpg"
+	},
+	{
+		"service": "system",
+		"name": "Système",
+		"image": "/img/category/system.jpg"
+	}
+]
