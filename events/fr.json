@@ -102,6 +102,22 @@
     ]
   },
   {
+    "code": "area",
+    "name": "Zone",
+    "description": "Quand vous entrez dans une zone.",
+    "service": 0,
+    "category": "area",
+    "faIcon": "fa fa-map-marker",
+    "iconColor": "bg-black",
+    "params": [
+      {
+         "name": "Zone",
+         "variablename": "area",
+         "path": "/area"
+      }
+    ]
+  },
+  {
     "code": "devicetype-new-value",
     "name": "Nouvelle valeur deviceType",
     "description": "Par exemple, quand une lampe est allumée, quand un capteur enregistre une valeur",

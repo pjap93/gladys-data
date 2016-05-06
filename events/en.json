@@ -102,6 +102,22 @@
     ]
   },
   {
+    "code": "area",
+    "name": "Area",
+    "description": "When you enter in a specific area.",
+    "service": 0,
+    "category": "area",
+    "faIcon": "fa fa-map-marker",
+    "iconColor": "bg-black",
+    "params": [
+      {
+         "name": "Area",
+         "variablename": "area",
+         "path": "/area"
+      }
+    ]
+  },
+  {
     "code": "devicetype-new-value",
     "name": "DeviceType new value",
     "description": "Triggers for example when a lamp is on, when a sensor recorded a new value.",
