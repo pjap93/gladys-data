@@ -28,5 +28,10 @@
 		"service": "system",
 		"name": "Système",
 		"image": "/img/category/system.jpg"
+	},
+	{
+		"service": "house",
+		"name": "Maison",
+		"image": "/img/category/house.jpg"
 	}
 ]
