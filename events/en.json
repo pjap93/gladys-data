@@ -136,5 +136,26 @@
         "variablename": "value"
       }
     ]
+  },
+  {
+    "code": "mode-changed",
+    "name": "House Mode changed",
+    "description": "This event is triggered when the mode of a house changed.",
+    "service": "mode",
+    "category": "house",
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-blue",
+    "params": [
+      {
+        "name": "House",
+        "variablename": "house",
+        "path": "/house"
+      },
+      {
+        "name": "Mode",
+        "variablename": "mode",
+        "path": "/mode"
+      }
+    ]
   }
 ]
