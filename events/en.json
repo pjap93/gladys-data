@@ -103,8 +103,24 @@
   },
   {
     "code": "enter-area",
-    "name": "Area",
+    "name": "Enter Area",
     "description": "When you enter in a specific area.",
+    "service": 0,
+    "category": "area",
+    "faIcon": "fa fa-map-marker",
+    "iconColor": "bg-black",
+    "params": [
+      {
+         "name": "Area",
+         "variablename": "id",
+         "path": "/area"
+      }
+    ]
+  },
+  {
+    "code": "left-area",
+    "name": "Left Area",
+    "description": "When you left a specific area.",
     "service": 0,
     "category": "area",
     "faIcon": "fa fa-map-marker",

@@ -103,7 +103,7 @@
   },
   {
     "code": "enter-area",
-    "name": "Zone",
+    "name": "Entrée dans une zone",
     "description": "Quand vous entrez dans une zone.",
     "service": 0,
     "category": "area",
@@ -112,6 +112,22 @@
     "params": [
       {
          "name": "Zone",
+         "variablename": "id",
+         "path": "/area"
+      }
+    ]
+  },
+  {
+    "code": "left-area",
+    "name": "Départ d'une zone",
+    "description": "Quand vous quittez une zone.",
+    "service": 0,
+    "category": "area",
+    "faIcon": "fa fa-map-marker",
+    "iconColor": "bg-black",
+    "params": [
+      {
+         "name": "Area",
          "variablename": "id",
          "path": "/area"
       }
