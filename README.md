@@ -1,6 +1,8 @@
 Gladys Project
 =======================
 
+[![Build Status](https://travis-ci.org/GladysProject/gladys-data.svg?branch=master)](https://travis-ci.org/GladysProject/gladys-data)
+
 http://gladysproject.com
 
 ##About
