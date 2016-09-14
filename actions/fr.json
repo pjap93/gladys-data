@@ -8,7 +8,7 @@
 		"params": [
 			{
 				"name": "Device Type",
-				"variablename": "deviceType",
+				"variablename": "devicetype",
 				"path":  "/devicetype"
 			},
 			{
@@ -26,9 +26,39 @@
 		"params": [
 			{
 				"name": "Script",
-				"variablename": "script",
+				"variablename": "id",
 				"path": "/script"
 			}
+		]
+	},
+	{
+		"uuid": "c038bfb3-5c01-496a-8513-07806aa84401",
+		"service": "event",
+		"function": "create",
+		"name": "Nouvel évènement",
+		"description": "Créé un évènement, qui peut lui même déclencher un scénario.",
+		"params": [
+			{
+				"name": "Code",
+				"variablename": "code",
+				"path" : "/eventtype"
+			},
+			{
+				"name": "Utilisateur",
+				"variablename": "user",
+				"path" : "/user"
+			},
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path" : "/house"
+			},
+			{
+				"name": "Pièce",
+				"variablename": "room",
+				"path" : "/room"
+			}
+
 		]
 	}
 ]
