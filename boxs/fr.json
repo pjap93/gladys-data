@@ -8,15 +8,5 @@
     "icon": "fa fa-calendar",
     "type": "box box-solid bg-green-gradient",
     "view": "dashboard"
-  },
-  {
-    "uuid": "1cc310aa-a312-4541-845a-a58c8526f434",
-    "title": "Météo",
-    "ngcontroller": "weatherCtrl as vm",
-    "html": "<div id=\"calendar\" style=\"width: 100%\"></div> <div id=\"weather\"><div id=\"waitspinner\" class=\"spinner\">                                              <div class=\"double-bounce1\"></div>                                              <div class=\"double-bounce2\"></div>                                            </div></div>",
-    "footer": 0,
-    "icon": "fa fa-sun-o",
-    "type": "box box-info",
-    "view": "dashboard"
   }
 ]
