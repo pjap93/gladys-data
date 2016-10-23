@@ -60,5 +60,40 @@
 			}
 
 		]
+	},
+	{
+		"uuid": "103d5e06-47b7-4cd0-814f-e18bcfc77f02",
+		"service": "notification",
+		"function": "create",
+		"name": "New Notification",
+		"description": "Send you a notification threw the service you defined in parameters.",
+		"params": [
+			{
+				"name": "Title",
+				"variablename": "title"
+			},
+			{
+				"name": "Text",
+				"variablename": "text"
+			},
+			{
+				"name": "Priority",
+				"variablename": "priority"
+			},
+			{
+				"name": "Icon",
+				"variablename": "icon"
+			},
+			{
+				"name": "IconColor",
+				"variablename": "iconColor"
+			},
+			{
+				"name": "User",
+				"variablename": "user",
+				"path" : "/user"
+			}
+
+		]
 	}
 ]
