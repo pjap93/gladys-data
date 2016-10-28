@@ -95,5 +95,30 @@
 			}
 
 		]
+	},
+	{
+		"uuid": "5c311d0d-427b-4ae8-b470-2c693e58ab8e",
+		"service": "utils",
+		"function": "request",
+		"name": "Lance une requête HTTP",
+		"description": "Envoie une requête HTTP avec les paramètres donnés.",
+		"params": [
+			{
+				"name": "Url",
+				"variablename": "url"
+			},
+			{
+				"name": "Méthode (GET/POST etc...)",
+				"variablename": "method"
+			},
+			{
+				"name": "Body",
+				"variablename": "body"
+			},
+			{
+				"name": "Json (true/false)",
+				"variablename": "json"
+			}
+		]
 	}
 ]
