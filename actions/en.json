@@ -40,7 +40,7 @@
 		"params": [
 			{
 				"name": "Code",
-				"variablename": "code",
+				"variablename": "eventtype",
 				"path" : "/eventtype"
 			},
 			{
