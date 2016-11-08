@@ -8,5 +8,14 @@
     "icon": "fa fa-calendar",
     "type": "box box-solid bg-green-gradient",
     "view": "dashboard"
+  },
+  {
+    "uuid": "3b78ede7-5ee7-4504-a932-2e9d7c3413f2",
+    "title": "Create Event",
+    "ngcontroller": "EventBoxCtrl as vm",
+    "icon": "fa fa-dot-circle-o",
+    "type": "box box-success",
+    "html": "<div class=\"row ng-cloak\">    <div class=\"col-md-4\">        <select ng-model=\"vm.newEvent.code\" class=\"form-control\" ><option ng-repeat=\"eventType in vm.eventTypes\" value=\"{{eventType.code}}\">{{eventType.name}}<\/option>        <\/select>    <\/div>    <div class=\"col-md-4\">        <select ng-model=\"vm.newEvent.user\" class=\"form-control\" ><option ng-repeat=\"user in vm.users\" value=\"{{user.id}}\">{{user.firstname}} {{user.lastname}}<\/option>        <\/select>    <\/div>    <div class=\"col-md-4\">        <select ng-model=\"vm.newEvent.house\" class=\"form-control\" ><option ng-repeat=\"house in vm.houses\" value=\"{{house.id}}\">{{house.name}}<\/option>        <\/select>    <\/div><\/div><div class=\"row\" style=\"margin-top:20px;\">    <div class=\"col-md-12\"> <button class=\"btn btn-block btn-success\" ng-click=\"vm.createEvent(vm.newEvent);\">Create<\/button><\/div><\/div>",
+    "view": "dashboard"
   }
 ]
