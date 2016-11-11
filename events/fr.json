@@ -2,20 +2,44 @@
   {
     "code": "back-at-home",
     "name": "Retour à la maison",
-    "description": "Vous venez de rentrer à la maison",
+    "description": "Un utilisateur vient de rentrer à la maison",
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-home",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "left-home",
     "name": "Départ de la maison",
-    "description": "Vous venez de partir de la maison",
+    "description": "Un utilisateur vient de partir de la maison",
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-home",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "wake-up",

@@ -6,7 +6,19 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-home",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "User",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "left-home",
@@ -15,7 +27,19 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-home",
-    "iconColor": "bg-light-blue"
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "User",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "wake-up",
