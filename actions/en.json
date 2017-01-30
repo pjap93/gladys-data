@@ -120,5 +120,13 @@
 				"variablename": "json"
 			}
 		]
+	},
+	{
+		"uuid": "b873bd8f-a69b-4dc0-a279-44adfac80f1c",
+		"service": "calendar",
+		"function": "sync",
+		"name": "Sync calendars",
+		"description": "Sync all calendars connected to Gladys.",
+		"params": []
 	}
 ]
