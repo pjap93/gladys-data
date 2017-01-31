@@ -4,7 +4,7 @@
     "title": "Calendrier",
     "ngcontroller": "calendarCtrl as vm",
     "html": "<!--The calendar -->                                    <div id=\"calendar\" style=\"width: 100%\"></div>",
-    "footer": "<div class=\"row\">                                         <div class=\"col-sm-6\">                                             <!-- Progress bars -->                                             <div class=\"clearfix ng-cloak\" ng-repeat=\"dayevent in vm.dayEvents\" >                                                 <span class=\"pull-left\">{{dayevent.summary}}</span>                                                 <small class=\"pull-right\">{{dayevent.period}}</small>                                             </div>                                          </div><!-- /.col -->                                                                              </div><!-- /.row -->",
+    "footer": "<div class=\"row\"> <div class=\"col-sm-6\"> <!-- Progress bars --> <div class=\"clearfix ng-cloak\" ng-repeat=\"dayevent in vm.dayEvents\" > <span class=\"pull-left\"><b>{{dayevent.start|amDateFormat:'HH:mm'}} - {{dayevent.end|amDateFormat:'HH:mm'}} :</b> {{dayevent.name}}</span> <small class=\"pull-right\"></small> </div> </div><!-- /.col --> </div><!-- /.row --> ",
     "icon": "fa fa-calendar",
     "type": "box box-solid bg-green-gradient",
     "view": "dashboard"
