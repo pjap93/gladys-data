@@ -197,5 +197,26 @@
         "path": "/mode"
       }
     ]
+  },
+  {
+    "code": "user-seen-at-home",
+    "name": "Utilisateur vu à la maison",
+    "description": "Un utilisateur a été vu à la maison",
+    "service": 0,
+    "category": "user",
+    "faIcon": "fa fa-home",
+    "iconColor": "bg-light-blue",
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   }
 ]
