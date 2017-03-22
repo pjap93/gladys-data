@@ -212,13 +212,13 @@
 }, {
 	"uuid": "17770bd0-a5a0-456e-b67f-2ca4a9fca2b2",
 	"text": "Turn down the sound",
-	"label": "music-volume-down",
+	"label": "volume-down",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "9d368e76-a477-44cb-9fb6-d9fdd30a36fc",
 	"text": "Turn up the volume",
-	"label": "music-volume-up",
+	"label": "volume-up",
 	"service": "music",
 	"language": "en"
 }, {
@@ -230,37 +230,37 @@
 }, {
 	"uuid": "807773d9-71ca-4fb7-ab27-54a0d2d29f85",
 	"text": "I feel like music",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "26c991a1-6de5-4f0a-b835-91c12ef482c2",
 	"text": "Playing Music",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "53e8a0cf-e1fe-4c0d-9e2e-4dcc480361b8",
 	"text": "Start the music",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "c9e211a0-48c4-4f8b-b0e0-4cbaea9f88fb",
 	"text": "Stop the Music",
-	"label": "play-music",
+	"label": "stop",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "e9111673-3bc8-4c4c-b09d-a1677c4560df",
 	"text": "Start Playlist",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
 	"uuid": "03f2cacd-60a4-41cb-b4ea-1de953a8f488",
 	"text": "I want to listen to music",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
