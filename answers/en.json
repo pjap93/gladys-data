@@ -1,0 +1,118 @@
+[
+    {
+        "label": "default",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "0efd2411-48c5-4d0b-b498-7fb4ae6a4b57",
+                "text": "Done !"
+            },
+            {
+                "uuid": "2acaba67-4e5a-4200-8e60-3ab5b0b04ff1",
+                "text": "Boom ! Always here for you sir :)"
+            }
+        ]
+    },
+    {
+        "label": "error",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "8edb66fc-cbab-4ee0-aaa3-f856d666f3e8",
+                "text": "I'm so sorry, something bad happened..."
+            },
+            {
+                "uuid": "4801f72d-4627-49e8-85b2-a5844a1a7c68",
+                "text": "I was not able to do that.. Something bad occured !"
+            }
+        ]
+    },
+    {
+        "label": "light-turned-on",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "9905a6f6-cbc0-4d14-830d-ada84ef913bc",
+                "text": "Lights are on sir !"
+            },
+            {
+                "uuid": "78b7a6cd-46ff-4b6c-b26c-0ae494189a8e",
+                "text": "Boom ! Lights are on :)"
+            }
+        ]
+    },
+    {
+        "label": "user-coming-back-home",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "01a6d35f-705f-485e-be1e-4eb996592bdf",
+                "text": "I'm preparing the house for your arrival !"
+            },
+            {
+                "uuid": "766c9a29-db87-4ed7-aa32-1cf854d25aac",
+                "text": "Got it. Everything will be ready when you'll be home ;)"
+            }
+        ]
+    },
+    {
+        "label": "user-leaving-home",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "3cb367b1-0a0e-4eb6-8bf9-cbb1065136da",
+                "text": "Ok sir ! Protecting the house."
+            },
+            {
+                "uuid": "5c78d492-8a8a-486c-862c-53c5b75b38cf",
+                "text": "No problem ! I'm keeping the home safe."
+            },
+            {
+                "uuid": "5efa93f2-294f-40f2-beeb-ad0fc52221ac",
+                "text": "Oh.. You are leaving me alone :("
+            }
+        ]
+    },
+    {
+        "label": "user-going-to-sleep",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "e5fb1ba6-7df3-49da-bb27-e88462dc1fb5",
+                "text": "Have a good night sir !"
+            },
+            {
+                "uuid": "816d4ca0-faf4-4f55-9d18-069b449561a3",
+                "text": "Ok, switching to sleep mode. Sleep well ;)"
+            }
+        ]
+    },
+    {
+        "label": "user-waking-up",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "4256944a-fd57-4867-8fc5-c2f0752b712b",
+                "text": "Hello %USER_NAME% ! Hope you had a good night :)"
+            },
+            {
+                "uuid": "ee16b4b0-4083-4b27-8822-3894133cd0e7",
+                "text": "Today is a good day !"
+            }
+        ]
+    },
+    {
+        "label": "tell-weather",
+        "needAnswer": false,
+        "responses": [
+            {
+                "uuid": "80e5d1ec-a6f4-4127-b66d-f16ef295a8af",
+                "text": "The weather is %WEATHER_DESCRIPTION% and the temperature is %WEATHER_TEMP% outside !"
+            },
+            {
+                "uuid": "0c347e24-3f91-44ef-bc97-5132f38192fe",
+                "text": "Right now the weather is %WEATHER_DESCRIPTION% and the temperature is %WEATHER_TEMP%."
+            }
+        ]
+    }
+]

@@ -3,6 +3,7 @@ module.exports = {
 	
 	types: [
 		'actions',
+		'answers',
 		'boxs',
 		'categories',
 		'events',
