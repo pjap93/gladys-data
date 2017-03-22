@@ -15,6 +15,21 @@
         ]
     },
     {
+        "label": "no-command-detected",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "ce7b0f66-595b-40fc-ad07-26c60868ddda",
+                "text": "I don't understand your message... I'm so sorry.."
+            },
+            {
+                "uuid": "9b9879b2-a0a4-4f57-a982-d24b33b3257a",
+                "text": "Mm can you be more explicit ? I don't understand !"
+            }
+        ]
+    },
+    {
         "label": "error",
         "needAnswer": false,
         "language": "en",
