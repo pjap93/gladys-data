@@ -115,11 +115,11 @@
         "responses": [
             {
                 "uuid": "80e5d1ec-a6f4-4127-b66d-f16ef295a8af",
-                "text": "The weather is %WEATHER_DESCRIPTION% and the temperature is %WEATHER_TEMP% outside !"
+                "text": "The temperature outside is %WEATHER_TEMP% degrees !"
             },
             {
                 "uuid": "0c347e24-3f91-44ef-bc97-5132f38192fe",
-                "text": "Right now the weather is %WEATHER_DESCRIPTION% and the temperature is %WEATHER_TEMP%."
+                "text": "Right now the temperature is %WEATHER_TEMP% degrees."
             }
         ]
     }
