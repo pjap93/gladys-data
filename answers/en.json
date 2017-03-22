@@ -2,6 +2,7 @@
     {
         "label": "default",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "0efd2411-48c5-4d0b-b498-7fb4ae6a4b57",
@@ -16,6 +17,7 @@
     {
         "label": "error",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "8edb66fc-cbab-4ee0-aaa3-f856d666f3e8",
@@ -30,6 +32,7 @@
     {
         "label": "light-turned-on",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "9905a6f6-cbc0-4d14-830d-ada84ef913bc",
@@ -44,6 +47,7 @@
     {
         "label": "user-coming-back-home",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "01a6d35f-705f-485e-be1e-4eb996592bdf",
@@ -58,6 +62,7 @@
     {
         "label": "user-leaving-home",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "3cb367b1-0a0e-4eb6-8bf9-cbb1065136da",
@@ -76,6 +81,7 @@
     {
         "label": "user-going-to-sleep",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "e5fb1ba6-7df3-49da-bb27-e88462dc1fb5",
@@ -90,6 +96,7 @@
     {
         "label": "user-waking-up",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "4256944a-fd57-4867-8fc5-c2f0752b712b",
@@ -104,6 +111,7 @@
     {
         "label": "tell-weather",
         "needAnswer": false,
+        "language": "en",
         "responses": [
             {
                 "uuid": "80e5d1ec-a6f4-4127-b66d-f16ef295a8af",
