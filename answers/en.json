@@ -167,5 +167,35 @@
                 "text": "Your calendar is free ! No upcoming event sir :)"
             }
         ]
+    },
+    {
+        "label": "music-played",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "2df0014b-7ede-4e88-8d9d-a42942f1878f",
+                "text": "I just started some music !"
+            },
+            {
+                "uuid": "85872dad-8f2c-45a7-8c25-62ef578846d9",
+                "text": "Music playing sir :)"
+            }
+        ]
+    },
+    {
+        "label": "music-paused",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "b1c6b4d8-6bae-4f38-97d5-a4b6a934a29a",
+                "text": "I paused the music."
+            },
+            {
+                "uuid": "bd1d915f-4ccc-4dfa-8ec7-413d8ea8a318",
+                "text": "Music paused sir !"
+            }
+        ]
     }
 ]
