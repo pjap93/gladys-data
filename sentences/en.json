@@ -224,7 +224,7 @@
 }, {
 	"uuid": "0ecf5b17-6310-470c-b1c0-1e79f7a519e4",
 	"text": "Play music",
-	"label": "play-music",
+	"label": "play",
 	"service": "music",
 	"language": "en"
 }, {
