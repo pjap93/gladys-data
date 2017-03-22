@@ -1,7 +1,8 @@
-[{
+[
+{
 	"uuid": "86e2f472-b754-463a-8b7b-cf1a5a7663fe",
-	"text": "I must be there at 8 o'clock tomorrow",
-	"label": "create-calendar-event",
+	"text": "What's my upcoming events in my calendar ?",
+	"label": "get-next-event",
 	"service": "calendar",
 	"language": "en"
 }, {
