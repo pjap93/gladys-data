@@ -251,7 +251,15 @@
 	"label": "stop",
 	"service": "music",
 	"language": "en"
-}, {
+},
+{
+	"uuid": "0399d4ff-4161-424f-a26a-cfb8747efdec",
+	"text": "Pause the Music",
+	"label": "pause",
+	"service": "music",
+	"language": "en"
+},
+ {
 	"uuid": "e9111673-3bc8-4c4c-b09d-a1677c4560df",
 	"text": "Start Playlist",
 	"label": "play",
