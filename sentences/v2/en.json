@@ -184,5 +184,35 @@
                 "text": "Current track"
             }
         ]
+    },
+    {
+        "service": "devicetype",
+        "label": "set-device-on",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "5cdf102c-8462-4931-b82f-c2f0178cd3a3",
+                "text": "Turn on the light in the %ROOM%"
+            },
+            {
+                "uuid": "15a9c292-eb8c-4514-a356-5f9b799ff242",
+                "text": "Turn on my %DEVICE_TYPE%"
+            }
+        ]
+    },
+    {
+        "service": "devicetype",
+        "label": "set-device-off",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "29ffbf6b-dbd0-4236-8857-3cf3841f6923",
+                "text": "Turn off the light in the %ROOM%"
+            },
+            {
+                "uuid": "8dd4d1b1-4b7c-46a5-af65-f25ed64808b8",
+                "text": "Turn off my %DEVICE_TYPE%"
+            }
+        ]
     }
 ]
