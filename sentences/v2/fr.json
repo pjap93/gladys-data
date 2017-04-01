@@ -1,0 +1,218 @@
+[
+    {
+        "service": "calendar",
+        "label": "get-next-event",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "10e7f1ba-f0a2-4b77-ae11-350156a184e5",
+                "text": "Quel est mon prochain rendez-vous ?"
+            },
+            {
+                "uuid": "641b2f46-8d7e-47da-ab4d-c3eb0b0c114f",
+                "text": "Donne moi le prochain évènement dans mon calendrier"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get-weather",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "81381746-7191-4448-93f3-4fa5465c5bca",
+                "text": "Quel temps fait il ?"
+            },
+            {
+                "uuid": "052c9e7b-f899-467e-b753-790b8a9db792",
+                "text": "Donne moi la météo !"
+            },
+            {
+                "uuid": "e12c18d2-f76d-40f7-9bc5-823de5948c3d",
+                "text": "Est-ce qu'il pleut dehors ?"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "play",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "f96a6761-f0c4-4887-ba32-8fd9a87932db",
+                "text": "Lance la musique"
+            },
+            {
+                "uuid": "62285c2f-c709-4c17-a972-c874d8364543",
+                "text": "Mets de la musique"
+            },
+            {
+                "uuid": "6a9796ce-c9ca-4e71-9148-1de9c6cc9fa8",
+                "text": "Je veux de la musique"
+            },
+            {
+                "uuid": "31763f45-afe1-4c0f-b7ff-fd7a35c4941e",
+                "text": "Balance le son !"
+            },
+            {
+                "uuid": "b33ebb57-5a74-4a20-8073-bc767a2f58a4",
+                "text": "Joue de la musique dans %ROOM%"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "pause",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "4a013e25-3cf7-48a6-a680-0403f52ed800",
+                "text": "Musique en pause"
+            },
+            {
+                "uuid": "0c498fd6-b005-4312-b907-e13c1f854993",
+                "text": "Pause la musique"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "stop",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "9f5f0d6c-03ae-45f5-a106-ca7e50988b56",
+                "text": "Stop la musique"
+            },
+            {
+                "uuid": "35815563-98ea-4ded-a30e-5ce033f56d87",
+                "text": "Coupe la musique"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "volume-up",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "80e148a8-e3a3-466c-a61b-dfe814366521",
+                "text": "Augmente le volume de la musique"
+            },
+            {
+                "uuid": "9e4931b5-0a95-4d3c-9649-e55ea6dff4cc",
+                "text": "Mets la musique plus fort"
+            },
+            {
+                "uuid": "ea3b55ed-51d0-44e0-8a11-cc4665183977",
+                "text": "Monte le volume"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "volume-down",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "12e1d546-43aa-498e-ade5-1f7aaa0f5c53",
+                "text": "Baisse le volume"
+            },
+            {
+                "uuid": "51af6ea3-2fdb-471f-888c-3d085416cf53",
+                "text": "Baisse la musique"
+            },
+            {
+                "uuid": "0cc3511e-5750-4e53-bf8c-93bc9795839e",
+                "text": "Mets moins fort"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "next",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "21a5f31f-584f-4486-80be-bea8d4812f24",
+                "text": "Musique suivante"
+            },
+            {
+                "uuid": "9a069ae4-bb6c-4725-bfba-c611f3a8762d",
+                "text": "Change la musique"
+            },
+            {
+                "uuid": "8cd199d6-4b5e-4103-8ccb-be1cb0b6cabe",
+                "text": "Mets la musique d'après"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "previous",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "df3e6f0f-70f7-44d5-879a-c2103e1c52db",
+                "text": "Musique précédente"
+            },
+            {
+                "uuid": "e2e1f3a6-772a-4cda-8965-d3cf8b23ccd1",
+                "text": "J'aimais bien la musique d'avant"
+            },
+            {
+                "uuid": "f0602923-fcc0-4164-acdf-1278711a4885",
+                "text": "Mets la musique d'avant"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "get-current-track",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "271d62bd-9c95-4e2a-9624-640bb1403567",
+                "text": "Quelle est la musique en train de jouer ?"
+            },
+            {
+                "uuid": "8ab72a99-af2b-4d68-931b-76d6b367c887",
+                "text": "Donne moi le titre de la musique actuelle"
+            },
+            {
+                "uuid": "34e2167f-0199-4d0b-88c2-22cde8b3dd36",
+                "text": "Quelle musique est dans %ROOM%"
+            }
+        ]
+    },
+    {
+        "service": "devicetype",
+        "label": "set-device-on",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "5039f751-919e-4973-a999-2ca356b611ba",
+                "text": "Allume la lumière dans %ROOM%"
+            },
+            {
+                "uuid": "3d459435-1040-4af0-aa01-981e3c392425",
+                "text": "Allume le %DEVICE_TYPE%"
+            }
+        ]
+    },
+    {
+        "service": "devicetype",
+        "label": "set-device-off",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "c2cafa3e-584c-4aca-8b2c-2053f1ee823c",
+                "text": "Eteins la lumière dans %ROOM%"
+            },
+            {
+                "uuid": "e3c05467-4faf-4317-a918-b551f0a7b245",
+                "text": "Eteins %DEVICE_TYPE%"
+            }
+        ]
+    }
+]
