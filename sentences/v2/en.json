@@ -229,5 +229,50 @@
                 "text": "I'm back !"
             }
         ]
+    },
+    {
+        "service": "event",
+        "label": "left-home",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "5541c2e0-fc70-464f-b6d0-d13d045e3586",
+                "text": "I'm leaving home"
+            },
+            {
+                "uuid": "9b8653a4-f171-40c4-810c-2575c9328cdd",
+                "text": "I'm going out"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "wake-up",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "a6fce9cd-4fd5-4f00-96e1-8dd4a256f802",
+                "text": "I'm waking up"
+            },
+            {
+                "uuid": "f8ddda69-c960-44df-8427-5806f356e4ab",
+                "text": "I'm up"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "going-to-sleep",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "34e0e91f-0f1b-42f1-bdfc-b33e6b214bef",
+                "text": "I'm going to sleep"
+            },
+            {
+                "uuid": "47a2c321-d6e8-4d49-94ba-7d03806cb706",
+                "text": "Good night !"
+            }
+        ]
     }
 ]
