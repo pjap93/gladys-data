@@ -160,11 +160,11 @@
         "responses": [
             {
                 "uuid": "0d2ab210-36f9-4a0c-b4ce-463d129a7739",
-                "text": "You have %NEXT_EVENT_TITLE% starting %NEXT_EVENT_START_IN% !"
+                "text": "You have \"%NEXT_EVENT_TITLE%\" starting %NEXT_EVENT_START_IN% !"
             },
             {
                 "uuid": "7c74fab2-f82d-46b8-bcc9-3e33852f29ce",
-                "text": "Your next event is %NEXT_EVENT_TITLE%, %NEXT_EVENT_START_IN% !"
+                "text": "Your next event is \"%NEXT_EVENT_TITLE%\", %NEXT_EVENT_START_IN% !"
             }
         ]
     },
