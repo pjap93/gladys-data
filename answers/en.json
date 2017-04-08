@@ -212,5 +212,28 @@
                 "text": "Music paused sir !"
             }
         ]
+    },
+    {
+        "label": "you-are-welcome",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "52700d4c-4e3e-47d4-8ab0-56173c7a595a",
+                "text": "You're welcome :)"
+            },
+            {
+                "uuid": "7a703a03-886f-4f4c-bfb7-2adf0d3c88bc",
+                "text": "No problem !"
+            },
+            {
+                "uuid": "e175660e-d598-4878-a056-ec7c751b46ac",
+                "text": "My pleasure"
+            },
+            {
+                "uuid": "0ef91798-4684-4219-afda-b55fbef15aa6",
+                "text": "It's nothing ;)"
+            }
+        ]
     }
 ]
