@@ -229,5 +229,62 @@
                 "text": "Je suis rentré"
             }
         ]
+    },
+    {
+        "service": "event",
+        "label": "left-home",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "0fbd8ac7-3d98-49ff-8478-cb6da9ba73ec",
+                "text": "Je pars de la maison !"
+            },
+            {
+                "uuid": "3dfca7b5-f040-4161-af99-777b99db4af4",
+                "text": "Je quitte la maison"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "wake-up",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "85078dc7-a7fa-4da3-870c-8410b80e3ca5",
+                "text": "Je suis levé !"
+            },
+            {
+                "uuid": "186c30a2-0c2d-4db6-bb6e-a08dfafc301b",
+                "text": "Je suis debout"
+            },
+            {
+                "uuid": "d8a386b5-d6ef-40db-bf94-754f0c01de2e",
+                "text": "Je suis reveillé"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "going-to-sleep",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "d1b0eacf-3c84-45a1-8a03-f84dc5f63788",
+                "text": "Je vais me coucher"
+            },
+            {
+                "uuid": "c5d8964d-8cb0-4942-9df2-b02331a2fa71",
+                "text": "Je vais au lit"
+            },
+            {
+                "uuid": "9bab1bdc-b612-47f5-8023-8469f21b5286",
+                "text": "Je vais dormir"
+            },
+            {
+                "uuid": "7bd8d661-7580-43ef-b6a5-2d63ad9aea0b",
+                "text": "Je vais dodo !"
+            }
+        ]
     }
 ]
