@@ -235,5 +235,35 @@
                 "text": "It's nothing ;)"
             }
         ]
+    },
+    {
+        "label": "greeting",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "6724a79c-490b-4075-8c2a-924d59ab2817",
+                "text": "Hey !"
+            },
+            {
+                "uuid": "cc75ffbc-23de-4536-b722-96e7808535a7",
+                "text": "Hello !"
+            }
+        ]
+    },
+    {
+        "label": "i-am-fine",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "59555290-97c4-45e8-b228-6317c91df389",
+                "text": "I'm fine !"
+            },
+            {
+                "uuid": "cc75ffbc-23de-4536-b722-96e7808535a7",
+                "text": "I'm good !"
+            }
+        ]
     }
 ]
