@@ -214,5 +214,20 @@
                 "text": "Eteins %DEVICE_TYPE%"
             }
         ]
+    },
+    {
+        "service": "event",
+        "label": "back-at-home",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "d5f6b00a-95fe-47dd-adff-76e25896c70b",
+                "text": "Je suis de retour à la maison !"
+            },
+            {
+                "uuid": "760881ba-11a4-49c8-89ee-629c0c444171",
+                "text": "Je suis rentré"
+            }
+        ]
     }
 ]
