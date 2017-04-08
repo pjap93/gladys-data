@@ -289,5 +289,39 @@
                 "text": "Thank you !"
             }
         ]
+    },
+    {
+        "service": "brain",
+        "label": "greeting",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "36a2fca0-a08f-4f15-a764-d82357b13ade",
+                "text": "Hi !"
+            },
+            {
+                "uuid": "bcdfdc85-5583-4930-9a8d-7c84529d5722",
+                "text": "Hello !"
+            },
+            {
+                "uuid": "2edb4441-dcd1-46e3-b3a5-b6721f2d755a",
+                "text": "Hey !"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "whats-up",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "72c3ca07-3ef0-4cb6-9dcb-8c748c9463d0",
+                "text": "What's up ?"
+            },
+            {
+                "uuid": "7f7a52d3-5f6e-493a-b94f-d6e6fcf73030",
+                "text": "How are you ?"
+            }
+        ]
     }
 ]
