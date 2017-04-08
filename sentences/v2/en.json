@@ -274,5 +274,20 @@
                 "text": "Good night !"
             }
         ]
+    },
+    {
+        "service": "brain",
+        "label": "thank-you",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "843559a8-15c3-4756-8eb1-42b95d8dbffe",
+                "text": "Thanks"
+            },
+            {
+                "uuid": "163692fd-a819-491c-a1db-875637f45bd0",
+                "text": "Thank you !"
+            }
+        ]
     }
 ]
