@@ -94,6 +94,21 @@
         ]
     },
     {
+        "label": "user-back-at-home",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "727cbe24-ee8e-4f3e-9e80-820522d8afcb",
+                "text": "Welcome home !"
+            },
+            {
+                "uuid": "c8c60ef6-8ebd-4cc5-af85-eb22e1e8b992",
+                "text": "Happy you are back at home :)"
+            }
+        ]
+    },
+    {
         "label": "user-going-to-sleep",
         "needAnswer": false,
         "language": "en",
