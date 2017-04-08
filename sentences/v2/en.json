@@ -214,5 +214,20 @@
                 "text": "Turn off my %DEVICE_TYPE%"
             }
         ]
+    },
+    {
+        "service": "event",
+        "label": "back-at-home",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "92b1d92f-d5ff-4b9a-a17e-4b7e690c4df5",
+                "text": "I'm back at home"
+            },
+            {
+                "uuid": "9afb36e0-14ef-45d3-9f82-4d7aa7e90492",
+                "text": "I'm back !"
+            }
+        ]
     }
 ]
