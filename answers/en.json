@@ -130,7 +130,7 @@
         "responses": [
             {
                 "uuid": "4256944a-fd57-4867-8fc5-c2f0752b712b",
-                "text": "Hello %USER_NAME% ! Hope you had a good night :)"
+                "text": "Hello %USER_FIRSTNAME% ! Hope you had a good night :)"
             },
             {
                 "uuid": "ee16b4b0-4083-4b27-8822-3894133cd0e7",
