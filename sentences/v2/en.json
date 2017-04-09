@@ -323,5 +323,20 @@
                 "text": "How are you ?"
             }
         ]
+    },
+    {
+        "service": "alarm",
+        "label": "create-alarm",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "decbca5c-4568-4522-9ef3-dc024aee1ec4",
+                "text": "Wake me up at %TIME%"
+            },
+            {
+                "uuid": "99d143d9-dbf6-44bc-97a7-a541fc0b3377",
+                "text": "Set an alarm at %TIME%"
+            }
+        ]
     }
 ]
