@@ -286,5 +286,69 @@
                 "text": "Je vais dodo !"
             }
         ]
+    },
+    {
+        "service": "brain",
+        "label": "thank-you",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "eac81b09-be43-41b5-b6a4-1986ae08e075",
+                "text": "Merci"
+            },
+            {
+                "uuid": "376976f9-ecf9-4ee0-8f21-8a93023f4df3",
+                "text": "Merci beaucoup !"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "greeting",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "5d6a0f1b-749b-4526-aeb0-28cd279f6b05",
+                "text": "Salut !"
+            },
+            {
+                "uuid": "6d16fd39-5141-48be-a8d6-1352c0b69ffd",
+                "text": "Bonjour !"
+            },
+            {
+                "uuid": "32b44e82-eb4e-43df-82ca-518f71f871db",
+                "text": "Hey !"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "whats-up",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "cf0370a7-db21-4809-91ba-e67f4c8e6d6f",
+                "text": "Comment ça va ?"
+            },
+            {
+                "uuid": "74119a26-ca93-4ad3-88cc-2f1033f90f80",
+                "text": "Comment vas-tu ?"
+            }
+        ]
+    },
+    {
+        "service": "alarm",
+        "label": "create-alarm",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "d4026227-d07e-4e9e-91dd-fe1429ee5b4c",
+                "text": "Réveille moi à %TIME%"
+            },
+            {
+                "uuid": "d768824d-73fc-407d-88f1-af21e4540b3a",
+                "text": "Créé une alarme à %TIME%"
+            }
+        ]
     }
 ]
