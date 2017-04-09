@@ -273,7 +273,7 @@
         "responses": [
             {
                 "uuid": "5bdfb911-6e62-4bdf-80ca-ecfce8b67b9e",
-                "text": "Done ! Alarm set at %ALARM_TIMES%."
+                "text": "Done ! Alarm set on %ALARM_TIMES%."
             },
             {
                 "uuid": "e394ffc8-9404-44e3-b0fe-cc39dabe01b9",
