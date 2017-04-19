@@ -186,7 +186,7 @@
         ]
     },
     {
-        "service": "devicetype",
+        "service": "deviceType",
         "label": "set-device-on",
         "language": "fr",
         "sentences": [
@@ -201,7 +201,7 @@
         ]
     },
     {
-        "service": "devicetype",
+        "service": "deviceType",
         "label": "set-device-off",
         "language": "fr",
         "sentences": [
