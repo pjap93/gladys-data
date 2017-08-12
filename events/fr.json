@@ -49,6 +49,18 @@
     "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-yellow"
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "going-to-sleep",
@@ -58,6 +70,18 @@
     "category": "user",
     "faIcon": "fa fa-bed",
     "iconColor": "bg-blue"
+    "params": [
+      {
+         "name": "Maison",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "gladys-installed",
