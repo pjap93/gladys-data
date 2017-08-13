@@ -14,6 +14,20 @@
 		]
 	},
 	{
+		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
+		"name": "Maison non vide",
+		"description": "Si une maison donnée n'est pas vide",
+		"service": "house",
+		"function": "isNotEmpty",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
 		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
 		"name": "Nuit",
 		"description": "S'il fait nuit à une maison donnée",
