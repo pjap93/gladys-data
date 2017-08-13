@@ -48,7 +48,7 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-bed",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
     "params": [
       {
          "name": "Maison",
@@ -69,7 +69,7 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-bed",
-    "iconColor": "bg-blue"
+    "iconColor": "bg-blue",
     "params": [
       {
          "name": "Maison",
