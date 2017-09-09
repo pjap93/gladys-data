@@ -280,5 +280,261 @@
                 "text": "Boom ! C'est fait. ( %ALARM_TIMES% )"
             }
         ]
+    },
+        {
+        "label": "tell-rain-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "f444f6d0-956c-11e7-a84e-52540027327e",
+                "text": "Il pleut en ce moment et il fait %WEATHER_TEMP% degrés dehors."
+            },
+            {
+                "uuid": "cb2ed1ce-956e-11e7-9b0e-52540027327e",
+                "text": "Il pleut actuellement et il fait %WEATHER_TEMP% degrés dehors."
+            },
+            {
+                "uuid": "d06cc894-956e-11e7-b95a-52540027327e",
+                "text": "Le temps est pluvieux, la température exetérieur est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "d6104c58-956e-11e7-ba1a-52540027327e",
+                "text": "Il fait %WEATHER_TEMP% degrés dehors et il pleut."
+            }
+        ]
+    },
+    {
+        "label": "tell-snow-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "df30bf02-956e-11e7-9a51-52540027327e",
+                "text": "On a %WEATHER_TEMP% degrés dehors et il neige"
+            },
+            {
+                "uuid": "e7102e74-956e-11e7-88b8-52540027327e",
+                "text": "Le temps est neigeux, la température exetérieur est de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-clear-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "eb02d824-956e-11e7-855c-52540027327e",
+                "text": "Le ciel est dégagé, la température est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "eecc451c-956e-11e7-8a4b-52540027327e",
+                "text": "Il fait beau, la température est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "f42016ba-956e-11e7-81d1-52540027327e",
+                "text": "Ciel clair, %WEATHER_TEMP% degrés dehors."
+            }
+        ]
+    },
+    {
+        "label": "tell-cloud-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "f8778fb8-956e-11e7-8a41-52540027327e",
+                "text": "Le ciel est couvert, la température est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "fcea5de6-956e-11e7-8469-52540027327e",
+                "text": "Temps nuageux, %WEATHER_TEMP% degrés dehors."
+            },
+            {
+                "uuid": "0199fcfc-956f-11e7-ad1d-52540027327e",
+                "text": "Le ciel est nuageux, la température extérieure est de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-fog-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "0771b25a-956f-11e7-9c08-52540027327e",
+                "text": "Il y a du brouillard, la température est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "0c0f91f6-956f-11e7-9645-52540027327e",
+                "text": "De la brume pour une température de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "12ae419c-956f-11e7-a350-52540027327e",
+                "text": "Temps brumeux, la température extérieure est de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-wind-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "18653c8a-956f-11e7-9c4c-52540027327e",
+                "text": "Il y a du vent et la température dehors est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "1d54b9aa-956f-11e7-8840-52540027327e",
+                "text": "Temps venteux pour une température de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-sleet-weather-now",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "20e027e4-956f-11e7-8dda-52540027327e",
+                "text": "C'est de la soupe dehors, la température est de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "258a4a90-956f-11e7-8670-52540027327e",
+                "text": "Il fait %WEATHER_TEMP% degrés, il neige mais ca ne tient pas."
+            }
+        ]
+    },
+    {
+        "label": "tell-rain-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "2ce467d0-956f-11e7-bb76-52540027327e",
+                "text": "Il devrait pleuvoir et faire %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "31e922e8-956f-11e7-839a-52540027327e",
+                "text": "Il est prevu de la pluie pour une température de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "361cb76c-956f-11e7-ae2c-52540027327e",
+                "text": "Le temps sera pluvieux, la température exetérieur sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "3c5618f8-956f-11e7-943e-52540027327e",
+                "text": "Il va faire %WEATHER_TEMP% degrés dehors avec des averses de pluies."
+            }
+        ]
+    },
+    {
+        "label": "tell-snow-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "42e978ea-956f-11e7-87b1-52540027327e",
+                "text": "Il va neiger et il fera %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "472e4f98-956f-11e7-bce8-52540027327e",
+                "text": "On aura %WEATHER_TEMP% degrés dehors et il devrait neiger"
+            },
+            {
+                "uuid": "4c60e6f6-956f-11e7-9cc9-52540027327e",
+                "text": "Le temps sera neigeux, la température exetérieur sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "3c5618f8-956f-11e7-943e-52540027327e",
+                "text": "Il va faire %WEATHER_TEMP% degrés dehors avec des averses de pluies."
+            }
+        ]
+    },
+    {
+        "label": "tell-clear-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "50ff27b8-956f-11e7-a7ab-52540027327e",
+                "text": "Le ciel sera dégagé, la température sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "67ea6758-956f-11e7-a214-52540027327e",
+                "text": "Il va faire beau, la température devrait avoisiner les %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "6c4e14ca-956f-11e7-9b53-52540027327e",
+                "text": "Le ciel va etre dégagé, la température sera de %WEATHER_TEMP% degrés dehors."
+            }
+        ]
+    },
+    {
+        "label": "tell-cloud-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "70540624-956f-11e7-a647-52540027327e",
+                "text": "Le ciel sera couvert, la température sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "7339e14c-956f-11e7-8f1b-52540027327e",
+                "text": "Le temps va etre nuageux, pour une témparature de %WEATHER_TEMP% degrés dehors."
+            },
+            {
+                "uuid": "76989720-956f-11e7-abe0-52540027327e",
+                "text": "Le ciel sera nuageux, la température extérieure sera de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-fog-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "79d14ce8-956f-11e7-8a78-52540027327e",
+                "text": "Il va y a du brouillard, la température sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "7d2ca946-956f-11e7-8691-52540027327e",
+                "text": "Prévoir de la brume pour une température de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "81cc89da-956f-11e7-b3e9-52540027327e",
+                "text": "Le temps sera brumeux, la température extérieure avoisinera les %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+    {
+        "label": "tell-wind-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "85ff87fa-956f-11e7-b228-52540027327e",
+                "text": "Il va y avoir du vent et la température dehors sera de %WEATHER_TEMP% degrés."
+            },
+            {
+                "uuid": "88f5a53e-956f-11e7-92a1-52540027327e",
+                "text": "Prévoir un temps venteux pour une température de %WEATHER_TEMP% degrés."
+            }
+        ]
+    },
+
+    {
+        "label": "tell-sleet-weather-futur",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "8c5768b6-956f-11e7-a402-52540027327e",
+                "text": "Il devrait neiger mais ca ne tiendra pas au sol, la température sera de %WEATHER_TEMP% degrés."
+            }
+        ]
     }
+
 ]
