@@ -8,7 +8,7 @@ module.exports = {
 		'categories',
 		'events',
 		'modes',
-		'sentences',
+		'sentences/v2',
 		'states'
 	],
 	
