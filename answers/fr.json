@@ -424,7 +424,7 @@
                 "text": "Le temps sera pluvieux, la température exetérieur sera de %WEATHER_TEMP% degrés."
             },
             {
-                "uuid": "3c5618f8-956f-11e7-943e-52540027327e",
+                "uuid": "38e09c85-62a7-4367-ba18-6ee6c79158bf",
                 "text": "Il va faire %WEATHER_TEMP% degrés dehors avec des averses de pluies."
             }
         ]
