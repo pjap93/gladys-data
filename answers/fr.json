@@ -535,6 +535,20 @@
                 "text": "Il devrait neiger mais ca ne tiendra pas au sol, la température sera de %WEATHER_TEMP% degrés."
             }
         ]
+    },
+    {
+        "label": "say-time",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "cca21dd9-9a5f-407d-b694-2d3c664a935c",
+                "text": "Voici l'heure : %TIME% !"
+            },
+            {
+                "uuid": "28fe7da0-3ecf-46ea-9e77-2b725532945d",
+                "text": "Il est exactement %TIME%."
+            }
+        ]
     }
-
 ]

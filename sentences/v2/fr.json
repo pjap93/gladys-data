@@ -350,5 +350,20 @@
                 "text": "Créé une alarme à %TIME%"
             }
         ]
+    },
+    {
+        "service": "time",
+        "label": "get-time",
+        "language": "fr",
+        "sentences": [
+            {
+                "uuid": "1edfe023-d3ed-440b-a7e3-08fcffb53307",
+                "text": "Quel heure est-il ?"
+            },
+            {
+                "uuid": "a79089cf-af78-420a-93eb-561aac079820",
+                "text": "Donne moi l'heure."
+            }
+        ]
     }
 ]
