@@ -14,6 +14,20 @@
 		]
 	},
 	{
+		"uuid": "dc1fcad5-2bc1-40f0-98f5-5ff3e081f375",
+		"name": "Not empty house",
+		"description": "If the given house is not empty",
+		"service": "house",
+		"function": "isNotEmpty",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+ 	{		
 		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
 		"name": "Night",
 		"description": "If it's night at the given house",
