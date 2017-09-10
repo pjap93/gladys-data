@@ -350,7 +350,7 @@
                 "text": "Créé une alarme à %TIME%"
             }
         ]
-    }
+    },
     {
         "service": "time",
         "label": "get-time",
