@@ -455,6 +455,20 @@
                 "text": "It should snows but it will be sleet, the temperature outside will be %WEATHER_TEMP% degrees."
             }
         ]
+    },
+    {
+        "label": "say-time",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "c3369704-9ef0-4bbd-8008-f42bfdc21ecb",
+                "text": "Here is the time : %TIME% !"
+            },
+            {
+                "uuid": "f2e54227-18d2-426a-887d-d757629aeda8",
+                "text": "It is exactly %TIME%."
+            }
+        ]
     }
-
 ]

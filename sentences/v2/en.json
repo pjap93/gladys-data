@@ -338,5 +338,20 @@
                 "text": "Set an alarm at %TIME%"
             }
         ]
+    },
+    {
+        "service": "time",
+        "label": "get-time",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "690262b8-4ba3-418a-b516-56aac09f14d9",
+                "text": "What time is it ?"
+            },
+            {
+                "uuid": "2f3f751b-cfd2-4e46-9498-3684c3a15dda",
+                "text": "Can you give me the time please ?"
+            }
+        ]
     }
 ]
