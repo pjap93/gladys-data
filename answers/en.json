@@ -280,5 +280,181 @@
                 "text": "Boom ! Scheduled for %ALARM_TIMES%."
             }
         ]
+    },
+    {
+        "label": "tell-rain-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [{
+                "uuid": "257ebd96-9575-11e7-8c90-52540027327e",
+                "text": "It's rainy, the temperature outside is %WEATHER_TEMP% degrees !"
+    
+            },
+            {
+                "uuid": "2b77c116-9575-11e7-9389-52540027327e",
+                "text": "Right now, it rains, the temperature outside is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-snow-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "6b3e3f3c-9575-11e7-a5b7-52540027327e",
+                "text": "it's snowing right now, the temperature outside is %WEATHER_TEMP% degrees !"
+            }
+        ]
+    },
+    {
+        "label": "tell-clear-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "7026efc6-9575-11e7-bf54-52540027327e",
+                "text": "The sky is clear, the temperature is %WEATHER_TEMP% degrees."
+            },
+            {
+                "uuid": "8d05f696-9575-11e7-a3c4-52540027327e",
+                "text": "The weather is fine, the temperature is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-cloud-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "a15446c0-9575-11e7-b7d3-52540027327e",
+                "text": "The sky is cloudy, the temperature is %WEATHER_TEMP% degrees."
+            },
+            {
+                "uuid": "a84689de-9575-11e7-8034-52540027327e",
+                "text": "The sky is cloudy, the outside temperature is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-fog-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "d241f494-9575-11e7-9872-52540027327e",
+                "text": "There is fog, the temperature is %WEATHER_TEMP% degrees."
+            },
+            {
+                "uuid": "d87151e8-9575-11e7-bf47-52540027327e",
+                "text": "Foggy weather, the outside temperature is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-wind-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "f7bd0b5a-9575-11e7-ab8c-52540027327e",
+                "text": "There is wind and temperature outside is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-sleet-weather-now",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "24d7c27e-9576-11e7-a11d-52540027327e",
+                "text": "It's snowing but it is sleet, temperature is %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-rain-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "34d4aa02-9576-11e7-8bfc-52540027327e",
+                "text": "It should rains, temperature is %WEATHER_TEMP% degrees."
+            },
+            {
+                "uuid": "4560cda6-9576-11e7-b412-52540027327e",
+                "text": "It is expected to rain and temperature expected of %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-snow-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "4f61a96a-9576-11e7-9eda-52540027327e",
+                "text": "It gonna snows, temperature will be %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-clear-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "6a830734-9576-11e7-91ba-52540027327e",
+                "text": "The weather willbe fine, temperature will be %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-cloud-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "e9770c0-9576-11e7-8448-52540027327e",
+                "text": "The sky will be overcast, temperature will be %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-fog-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "979d8bfe-9576-11e7-81c0-52540027327e",
+                "text": "The weather will be foggy, temperature will be %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+    {
+        "label": "tell-wind-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "b3146434-9576-11e7-9277-52540027327e",
+                "text": "There will be wind and the temperature outside will be %WEATHER_TEMP% degrees."
+            }
+        ]
+    },
+
+    {
+        "label": "tell-sleet-weather-futur",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "d2bedd6e-9576-11e7-bd4c-52540027327e",
+                "text": "It should snows but it will be sleet, the temperature outside will be %WEATHER_TEMP% degrees."
+            }
+        ]
     }
+
 ]
