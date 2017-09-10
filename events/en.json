@@ -48,7 +48,19 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-bed",
-    "iconColor": "bg-yellow"
+    "iconColor": "bg-yellow",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "User",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "going-to-sleep",
@@ -57,7 +69,19 @@
     "service": 0,
     "category": "user",
     "faIcon": "fa fa-bed",
-    "iconColor": "bg-blue"
+    "iconColor": "bg-blue",
+    "params": [
+      {
+         "name": "House",
+         "variablename": "house",
+         "path": "/house"
+      },
+      {
+         "name": "User",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   },
   {
     "code": "gladys-installed",
