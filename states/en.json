@@ -14,7 +14,7 @@
 		]
 	},
 	{
-		"uuid": "52bba230-c732-4d73-8b51-5a9ffd68f143",
+		"uuid": "dc1fcad5-2bc1-40f0-98f5-5ff3e081f375",
 		"name": "Not empty house",
 		"description": "If the given house is not empty",
 		"service": "house",
