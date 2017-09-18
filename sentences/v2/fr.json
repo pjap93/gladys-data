@@ -30,6 +30,10 @@
             {
                 "uuid": "e12c18d2-f76d-40f7-9bc5-823de5948c3d",
                 "text": "Est-ce qu'il pleut dehors ?"
+            },
+            {
+                "uuid": "4add5adc-235c-4eab-9222-54e6af6751ff",
+                "text": "Quelle température fera il %TIME% ?"
             }
         ]
     },
