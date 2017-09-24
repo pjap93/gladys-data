@@ -470,5 +470,53 @@
                 "text": "It is exactly %TIME%."
             }
         ]
+    },
+    
+    {
+        "label": "music-next",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "2a5e5786-aa6b-43f7-b540-a252c95fb1ea",
+                "text": "Next music is now playing !"
+            },
+            {
+                "uuid": "f096d4f2-fcf6-40d4-97aa-60df8255bddb",
+                "text": "I played the next music !"
+            }
+        ]
+    },
+    
+    {
+        "label": "music-previous",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "f0b3392c-59a4-4fb1-9f90-491890e890ed",
+                "text": "Previous music is now playing !"
+            },
+            {
+                "uuid": "65391f35-408f-4836-bdf5-482934f89158",
+                "text": "I played the previous music !"
+            }
+        ]
+    },
+    
+    {
+        "label": "music-stopped",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "1d71990b-49da-4b10-ae14-f78336304bc7",
+                "text": "I stopped the music !"
+            },
+            {
+                "uuid": "d0ab8e5b-8e24-4144-a463-8a857c462d99",
+                "text": "Music stopped sir !"
+            }
+        ]
     }
 ]
