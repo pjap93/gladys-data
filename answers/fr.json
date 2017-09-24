@@ -21,7 +21,7 @@
         "responses": [
             {
                 "uuid": "eaa6d056-3f0b-4809-963d-a78f4c46416b",
-                "text": "Je n'ai pas compris ce que vous avez dis... Désolé :/"
+                "text": "Je n'ai pas compris ce que vous avez dit... Désolé :/"
             },
             {
                 "uuid": "1d9f99ce-b7d9-4502-a88b-449e405ef7d2",
@@ -70,7 +70,7 @@
             },
             {
                 "uuid": "b2a17ba4-287e-44a0-be2c-7bbad350985a",
-                "text": "Ca marche ! Je prépare la maison."
+                "text": "Ça marche ! Je prépare la maison."
             }
         ]
     },
@@ -262,7 +262,7 @@
             },
             {
                 "uuid": "60b18a70-261b-4cc2-9ce6-b53ca2e9f8a5",
-                "text": "Ca va bien !"
+                "text": "Ça va bien !"
             }
         ]
     },
@@ -296,7 +296,7 @@
             },
             {
                 "uuid": "d06cc894-956e-11e7-b95a-52540027327e",
-                "text": "Le temps est pluvieux, la température exetérieur est de %WEATHER_TEMP% degrés."
+                "text": "Le temps est pluvieux, la température extérieur est de %WEATHER_TEMP% degrés."
             },
             {
                 "uuid": "d6104c58-956e-11e7-ba1a-52540027327e",
@@ -315,7 +315,7 @@
             },
             {
                 "uuid": "e7102e74-956e-11e7-88b8-52540027327e",
-                "text": "Le temps est neigeux, la température exetérieur est de %WEATHER_TEMP% degrés."
+                "text": "Le temps est neigeux, la température extérieur est de %WEATHER_TEMP% degrés."
             }
         ]
     },
@@ -402,7 +402,7 @@
             },
             {
                 "uuid": "258a4a90-956f-11e7-8670-52540027327e",
-                "text": "Il fait %WEATHER_TEMP% degrés, il neige mais ca ne tient pas."
+                "text": "Il fait %WEATHER_TEMP% degrés, il neige mais ça ne tient pas."
             }
         ]
     },
@@ -417,11 +417,11 @@
             },
             {
                 "uuid": "31e922e8-956f-11e7-839a-52540027327e",
-                "text": "Il est prevu de la pluie pour une température de %WEATHER_TEMP% degrés."
+                "text": "Il est prévu de la pluie pour une température de %WEATHER_TEMP% degrés."
             },
             {
                 "uuid": "361cb76c-956f-11e7-ae2c-52540027327e",
-                "text": "Le temps sera pluvieux, la température exetérieur sera de %WEATHER_TEMP% degrés."
+                "text": "Le temps sera pluvieux, la température extérieur sera de %WEATHER_TEMP% degrés."
             },
             {
                 "uuid": "38e09c85-62a7-4367-ba18-6ee6c79158bf",
@@ -444,7 +444,7 @@
             },
             {
                 "uuid": "4c60e6f6-956f-11e7-9cc9-52540027327e",
-                "text": "Le temps sera neigeux, la température exetérieur sera de %WEATHER_TEMP% degrés."
+                "text": "Le temps sera neigeux, la température extérieur sera de %WEATHER_TEMP% degrés."
             },
             {
                 "uuid": "3c5618f8-956f-11e7-943e-52540027327e",
@@ -467,7 +467,7 @@
             },
             {
                 "uuid": "6c4e14ca-956f-11e7-9b53-52540027327e",
-                "text": "Le ciel va etre dégagé, la température sera de %WEATHER_TEMP% degrés dehors."
+                "text": "Le ciel va être dégagé, la température sera de %WEATHER_TEMP% degrés dehors."
             }
         ]
     },
@@ -482,7 +482,7 @@
             },
             {
                 "uuid": "7339e14c-956f-11e7-8f1b-52540027327e",
-                "text": "Le temps va etre nuageux, pour une témparature de %WEATHER_TEMP% degrés dehors."
+                "text": "Le temps va être nuageux, pour une température de %WEATHER_TEMP% degrés dehors."
             },
             {
                 "uuid": "76989720-956f-11e7-abe0-52540027327e",
@@ -532,7 +532,7 @@
         "responses": [
             {
                 "uuid": "8c5768b6-956f-11e7-a402-52540027327e",
-                "text": "Il devrait neiger mais ca ne tiendra pas au sol, la température sera de %WEATHER_TEMP% degrés."
+                "text": "Il devrait neiger mais ça ne tiendra pas au sol, la température sera de %WEATHER_TEMP% degrés."
             }
         ]
     },
@@ -548,6 +548,54 @@
             {
                 "uuid": "28fe7da0-3ecf-46ea-9e77-2b725532945d",
                 "text": "Il est exactement %TIME%."
+            }
+        ]
+    },
+    
+    {
+        "label": "music-next",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "734d335a-c33c-4b59-971a-3a29dde83208",
+                "text": "C'est bon, musique suivante !"
+            },
+            {
+                "uuid": "bf7edc17-bddb-489a-9499-c24d9b2f5327",
+                "text": "Je lance la musique suivante !"
+            }
+        ]
+    },
+    
+    {
+        "label": "music-previous",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "00202f85-223e-4fdc-8e6a-f40650e3a2b8",
+                "text": "C'est bon, musique précédente !"
+            },
+            {
+                "uuid": "4ad2d158-6d4e-489b-b8b7-26f6078ad2e7",
+                "text": "Je lance la musique précédente !"
+            }
+        ]
+    },
+    
+    {
+        "label": "music-stopped",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "2f94dd5a-528b-4fb0-b310-2beb574e2d0b",
+                "text": "C'est bon la musique est coupée !"
+            },
+            {
+                "uuid": "b3bc6306-5a85-49d2-b001-5cb49651c136",
+                "text": "J'ai coupé la musique !"
             }
         ]
     }
