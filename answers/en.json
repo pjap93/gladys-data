@@ -417,7 +417,7 @@
         "language": "en",
         "responses": [
             {
-                "uuid": "e9770c0-9576-11e7-8448-52540027327e",
+                "uuid": "d1213e99-b2a6-4697-81c9-9deacd038aee",
                 "text": "The sky will be overcast, temperature will be %WEATHER_TEMP% degrees."
             }
         ]
