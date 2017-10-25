@@ -80,6 +80,11 @@
 				"name": "Maison",
 				"variablename": "house",
 				"path": "/house"
+			},
+		        {
+         			"name": "Utilisateur",
+         			"variablename": "user",
+         			"path": "/user"
 			}
 		]
 	}
