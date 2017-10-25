@@ -54,5 +54,19 @@
 				"path": "/house"
 			}
 		]
+	},
+		{
+		"uuid": "e67ade17-8a41-46cd-b60d-9ada5181d6c3",
+		"name": "Mode de la Maison",
+		"description": "Si la maison est dans un mode",
+		"service": "mode",
+		"function": "getByHouse",
+		"params": [
+			{
+				"name": "Mode",
+				"variablename": "mode",
+				"path": "/mode"
+			}
+		]
 	}
 ]
