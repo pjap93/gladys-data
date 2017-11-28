@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
 		"name": "Maison vide",
@@ -61,6 +61,25 @@
 		"description": "Si un utilisateur est présent dans une maison donnée.",
 		"service": "house",
 		"function": "isUserAtHome",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			},
+		        {
+         			"name": "Utilisateur",
+         			"variablename": "user",
+         			"path": "/user"
+			}
+		]
+	},
+		{
+		"uuid": "36119834-2a98-4f1b-8a75-0bbd2b78c0b2",
+		"name": "Utilisateur non présent",
+		"description": "Si un utilisateur n'est pas présent dans une maison donnée.",
+		"service": "house",
+		"function": "isUserNotAtHome",
 		"params": [
 			{
 				"name": "Maison",

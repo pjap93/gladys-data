@@ -73,5 +73,24 @@
          			"path": "/user"
 			}
 		]
+	},
+		{
+		"uuid": "605c0f8e-d435-4ce0-898f-efdc54ea02b5",
+		"name": "User not present",
+		"description": "If a user is not present in a given house.",
+		"service": "house",
+		"function": "isUserNotAtHome",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			},
+		        {
+         			"name": "User",
+         			"variablename": "user",
+         			"path": "/user"
+			}
+		]
 	}
 ]
