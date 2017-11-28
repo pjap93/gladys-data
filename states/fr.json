@@ -77,7 +77,7 @@
 		{
 		"uuid": "36119834-2a98-4f1b-8a75-0bbd2b78c0b2",
 		"name": "Utilisateur non présent",
-		"description": "Si un utilisateur n\'est pas présent dans une maison donnée.",
+		"description": "Si un utilisateur n est pas présent dans une maison donnée.",
 		"service": "house",
 		"function": "isUserNotAtHome",
 		"params": [
