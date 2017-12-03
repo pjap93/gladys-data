@@ -128,5 +128,24 @@
 		"name": "Sync calendars",
 		"description": "Sync all calendars connected to Gladys.",
 		"params": []
+	},
+	{
+		"uuid": "e3d80cf5-9cb3-4e92-a269-fd5ef90eb773",
+		"service": "mode",
+		"function": "change",
+		"name": "Change the house mode",
+		"description": "Change the mode of a given house.",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path" : "/house"
+			},
+			{
+				"name": "Mode",
+				"variablename": "mode",
+				"path" : "/mode"
+			}
+		]
 	}
 ]
