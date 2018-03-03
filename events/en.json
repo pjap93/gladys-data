@@ -242,5 +242,21 @@
          "path": "/user"
       }
     ]
+  },
+  {
+    "code": "user-need-to-wake-up",
+    "name": "User need to wake up",
+    "description": "This event is thrown when the user's alarm clock is ringing.",
+    "service": "alarm",
+    "category": "user",
+    "faIcon": "fa fa-clock-o",
+    "iconColor": "bg-green",
+    "params": [
+      {
+         "name": "User",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
   }
 ]
