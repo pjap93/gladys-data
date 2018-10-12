@@ -1,97 +1,103 @@
-[
-	{
-		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
-		"name": "Maison vide",
-		"description": "Si une maison donnée est vide",
-		"service": "house",
-		"function": "isEmpty",
-		"params": [
-			{
-				"name": "Maison",
-				"variablename": "house",
-				"path": "/house"
-			}
-		]
-	},
-	{
-		"uuid": "52bba230-c732-4d73-8b51-5a9ffd68f143",
-		"name": "Maison non vide",
-		"description": "Si une maison donnée n'est pas vide",
-		"service": "house",
-		"function": "isNotEmpty",
-		"params": [
-			{
-				"name": "Maison",
-				"variablename": "house",
-				"path": "/house"
-			}
-		]
-	},
-	{
-		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
-		"name": "Nuit",
-		"description": "S'il fait nuit à une maison donnée",
-		"service": "sun",
-		"function": "isItNight",
-		"params": [
-			{
-				"name": "Maison",
-				"variablename": "house",
-				"path": "/house"
-			}
-		]
-	},
-		{
-		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
-		"name": "Jour",
-		"description": "S'il fait jour à une maison donnée",
-		"service": "sun",
-		"function": "isItDay",
-		"params": [
-			{
-				"name": "Maison",
-				"variablename": "house",
-				"path": "/house"
-			}
-		]
-	},
-		{
-		"uuid": "89392936-a41e-40cc-b5f9-9211f241a4b9",
-		"name": "Utilisateur présent",
-		"description": "Si un utilisateur est présent dans une maison donnée.",
-		"service": "house",
-		"function": "isUserAtHome",
-		"params": [
-			{
-				"name": "Maison",
-				"variablename": "house",
-				"path": "/house"
-			},
-		        {
-         			"name": "Utilisateur",
-         			"variablename": "user",
-         			"path": "/user"
-			}
-		]
-	},
-        {
-                "uuid": "a8000dc6-931f-11e8-aa5e-52540027327e",
-                "name": "Mode",
-                "description": "If a house in is in specific mode.",
-                "service": "house",
-                "function": "isMode",
-                "params": [
-                        {
-                                "name": "House",
-                                "variablename": "house",
-                                "path": "/house"
-                        },
-                        {
-                                "name": "Mode",
-                                "variablename": "mode",
-                                "path": "/mode"
-                        }
-                ]
-        }
-
+[{
+    "uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
+    "name": "Maison vide",
+    "description": "Si une maison donnée est vide",
+    "service": "house",
+    "function": "isEmpty",
+    "params": [{
+      "name": "Maison",
+      "variablename": "house",
+      "path": "/house"
+    }]
+  },
+  {
+    "uuid": "52bba230-c732-4d73-8b51-5a9ffd68f143",
+    "name": "Maison non vide",
+    "description": "Si une maison donnée n'est pas vide",
+    "service": "house",
+    "function": "isNotEmpty",
+    "params": [{
+      "name": "Maison",
+      "variablename": "house",
+      "path": "/house"
+    }]
+  },
+  {
+    "uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
+    "name": "Nuit",
+    "description": "S'il fait nuit à une maison donnée",
+    "service": "sun",
+    "function": "isItNight",
+    "params": [{
+      "name": "Maison",
+      "variablename": "house",
+      "path": "/house"
+    }]
+  },
+  {
+    "uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
+    "name": "Jour",
+    "description": "S'il fait jour à une maison donnée",
+    "service": "sun",
+    "function": "isItDay",
+    "params": [{
+      "name": "Maison",
+      "variablename": "house",
+      "path": "/house"
+    }]
+  },
+  {
+    "uuid": "89392936-a41e-40cc-b5f9-9211f241a4b9",
+    "name": "Utilisateur présent",
+    "description": "Si un utilisateur est présent dans une maison donnée.",
+    "service": "house",
+    "function": "isUserAtHome",
+    "params": [{
+        "name": "Maison",
+        "variablename": "house",
+        "path": "/house"
+      },
+      {
+        "name": "Utilisateur",
+        "variablename": "user",
+        "path": "/user"
+      }
+    ]
+  },
+  {
+    "uuid": "a8000dc6-931f-11e8-aa5e-52540027327e",
+    "name": "Mode",
+    "description": "If a house in is in specific mode.",
+    "service": "house",
+    "function": "isMode",
+    "params": [{
+        "name": "House",
+        "variablename": "house",
+        "path": "/house"
+      },
+      {
+        "name": "Mode",
+        "variablename": "mode",
+        "path": "/mode"
+      }
+    ]
+  },
+  {
+    "uuid": "c03c9fcf-2609-49c1-a134-db2905024ace",
+    "name": "Utilisateur endormi",
+    "description": "Si un utilisateur est endormi dans une maison donnée.",
+    "service": "house",
+    "function": "isUserAsleep",
+    "params": [{
+        "name": "Maison",
+        "variablename": "house",
+        "path": "/house"
+      },
+      {
+        "name": "Utilisateur",
+        "variablename": "user",
+        "path": "/user"
+      }
+    ]
+  }
 ]
