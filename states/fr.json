@@ -109,12 +109,12 @@
     "params": [{
         "name": "Début",
         "variablename": "start",
-        "path": NULL
+        "path": ""
       },
       {
         "name": "Fin",
         "variablename": "end",
-        "path": NULL
+        "path": ""
       }
     ]
   }
