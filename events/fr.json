@@ -242,5 +242,30 @@
          "path": "/user"
       }
     ]
+  },
+  {
+    "code": "user-need-to-wake-up",
+    "name": "Utilisateur doit se réveiller",
+    "description": "Se déclenche quand le réveil sonne et que l'utilisateur doit se réveiller.",
+    "service": "alarm",
+    "category": "user",
+    "faIcon": "fa fa-clock-o",
+    "iconColor": "bg-green",
+    "params": [
+      {
+         "name": "Utilisateur",
+         "variablename": "user",
+         "path": "/user"
+      }
+    ]
+  },
+  {
+    "code": "gladys-launched",
+    "name": "Gladys démarrée!",
+    "descrition": "Gladys a démarré.",
+    "service": 0,
+    "category": 6,
+    "faIcon": "fa fa-rocket",
+    "iconColor": "bg-black"
   }
 ]
